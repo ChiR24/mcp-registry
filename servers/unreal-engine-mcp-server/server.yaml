@@ -15,7 +15,7 @@ about:
   icon: https://raw.githubusercontent.com/ChiR24/Unreal_mcp/main/Public/icon.png
 source:
   project: https://github.com/ChiR24/Unreal_mcp
-  commit: 16f9feac2a1feb8bab9b8826fb965f2badffdb6d
+  commit: b948520e301e9ee69006d52330625f707126dc6b
 config:
   description: Configure the connection to Unreal Engine Remote Control API
   env:
